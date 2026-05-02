@@ -1,0 +1,47 @@
+1. Open XAMPP
+
+* Start Apache
+* Start MySQL
+
+2. Open Website
+
+```
+http://localhost/football-academy/
+```
+
+3. Run ngrok in CMD
+
+```bash ngrok http 80
+```
+
+4. Copy HTTPS ngrok link
+   Example : - https://abcd.ngrok-free.app
+```
+
+5. Open:
+
+```
+includes/db.php
+```
+
+Replace APP_URL with:
+
+```php id="o0ek1p"
+define('APP_URL', 'https://your-ngrok-link.ngrok-free.app/football-academy');
+```
+
+6. Keep XAMPP + ngrok running for:
+
+* QR Codes
+* Mobile access
+* Razorpay payments
+
+7. Payment Gateway:
+
+```
+Razorpay
+```
+
+ADMIN LOGIN
+ID : -FLA-001
+Password :- uxY87Mb7ydm2CrfO

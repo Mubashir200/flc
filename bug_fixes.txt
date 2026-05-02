@@ -1,0 +1,113 @@
+screen shot of payment is not showing in admin panel and there should be a rule to add the  Transaction ID anyone can add wrong like xxxxxxxxxxxx45 anything rubbish
+
+after admin approved the pay fess option is still showing there something should be different after paying fess soo player should fell special like a member of flc something and the different 
+
+and after player send request to joint the event in admin panel event application there is no x button to reject player and after approved player should also see on dashboard how many days remaining and the timming 
+
+and the detailes must be filled and there should be a option of putting addres and also alternative number optional 
+
+and how i can send notifation throw the email and add more options in sending email like adding photo 
+
+in player there should be a address also and alternative phone number 
+
+
+
+
+
+
+
+new ------------------------
+30/04/2026 features to be added 
+
+there should be an option for searching in join request in admin panel 
+
+there should be search option in team also 
+
+we can add photo to profile of every team to get unique looks 
+
+and explain me how i can really send emails to my subcribers on real time 
+
+and make easy to manage to add players in team directly when go in edit team there we can see who are in this team and add and remove from there 
+
+add location of the event in add event  and it should also show in the player dashboard 
+
+in social links add WhatsApp chat also i will upload that also 
+
+this is the real information i have to be putting in the website :- Contact: 9021444477/9823941123/9823282105
+
+Email: footballleadersacademy@gmail.com
+
+Address: Plot No. 147 P, Opposite Maulana Azad College, Near Milan Kirana, National Colony, Aurangabad 431001 Maharashtra
+
+....*FLA Coaches*
+Mr. Azhar Shaikh & Mr. Mazhar Shaikh
+_(WIFA & AIFF Licensed Coaches)_
+➖➖➖➖➖➖➖➖
+_Follow Us:_
+*FB:* https://www.facebook.com/share/15kfZ9ThRy/
+
+*Insta:* https://www.instagram.com/invites/contact/?igsh=qej2vv1kgwai&utm_content=xg4urd6
+➖➖➖➖➖➖➖➖
+
+*FLA* #No 1 Academy in Marathwada (Est2013)
+➖➖➖⚽➖➖➖
+*Achievements*
+- 2 International Players
+- 5 National Players
+- 2 Players Playing National Club
+- 10+ State Level Players
+- 20+ Senior Club Players
+- 15+ District Level Players
+➖➖➖➖➖➖➖➖
+*Why Choose FLA?*
+- WIFA & AIFF Licensed Coaches
+- Fun & Engaging
+- Every 3 month Fitness & Drill Assessment
+- Chance to play Tournaments
+- Positive Environment  
+- and many more
+➖➖➖➖➖➖➖➖
+
+links of youtube videos : - 
+https://youtu.be/ET-j0DQMH9w?si=1-GbmHeEX1po1f1m 
+https://youtu.be/580Vf9ORcIM?si=KbIVG_hS7rfH9moA
+https://youtu.be/Do9Ab4bz78w?si=H7ZQgnDtz4ShJxUq
+
+when someone is not login but trying to apply in event there should be an pop up warning you need login first as player account to join any event and there should be restictions no same phone number and email already taken 
+
+
+
+new .....................
+i want a search option in join request and delete request button after approved also team event app join request payment contact message all should get an search option 
+
+email is not autofelling  in the edit player 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fixes :---------- after the event is completed there should be no option for apply for event 	, there should be warning if someone didn't fell anything like didn't upload photo or anything that is not optional , after player login the join the club button if he clicked there should be a pop up warning that shows you already in the club , where the time and date select button is there its should be in white color for better visibility and add one more card in our students and in footer there is missing of WhatsApp icon in side of facebook icon in player dashboard there should also show the team logo 
+
+
+
+
+
+the team logo is not showing to the player dashboard 
+				
